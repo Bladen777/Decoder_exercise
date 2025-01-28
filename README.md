@@ -5,5 +5,5 @@ Takes table information from a google doc, and coverts it to a message based on 
 Decoder_1 
 this is my first attempt and the one I submitted
 
-Decode_2
+Decoder_2
 this was a revised version that cuts down steps and is overall more robust to different situations
